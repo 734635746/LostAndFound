@@ -1,0 +1,10 @@
+{
+  "window": {
+    "enablePullDownRefresh": true
+  },
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "LostAndFound",
+  "usingComponents": {
+    
+  }
+}

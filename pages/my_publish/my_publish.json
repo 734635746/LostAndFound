@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "已发布的贴子",
+  "usingComponents": {
+    "i-card": "../../dist/card/index"
+  }
+}
